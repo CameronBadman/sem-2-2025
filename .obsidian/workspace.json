@@ -11,14 +11,17 @@
             "id": "81a2fd591d9d7fce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -158,14 +161,23 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "9a08a856de31b08f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,6 +195,9 @@
   },
   "active": "81a2fd591d9d7fce",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
+    "Untitled.canvas",
+    "README.md",
     "cosc3500/Week-1/App1.md",
     "COSC3500/Week-1/App1.md",
     "comp3702/week-13/Lecture13",
@@ -197,7 +212,6 @@
     "comp3702/week-10/Lecture10",
     "cosc3500/Week-1/Lecture 1.md",
     "COSC3500/Week-1/Lecture 1.md",
-    "README.md",
     "CSSE2310/Week-7/Week-7.md",
     "CSSE2310/Week-7/Contact-5.md",
     "COMP3400/Week-6/Week 6.md",
@@ -218,7 +232,6 @@
     "COMP3100/Week-4/Week 4.md",
     "COMP3100/Assessment A1.md",
     "UNi Kanban.md",
-    "CSSE2310/Week-6/Contact-6.md",
     "Pasted image 20250315183615.png"
   ]
 }
