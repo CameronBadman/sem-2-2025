@@ -1,0 +1,60 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": true,
+  "showAllFolderIcons": true,
+  "minimalFolderIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "COMP3100": {
+      "color": "pink",
+      "unsynced": [
+        "52aab6612932c7d4",
+        "8f54c76c3ab92db5"
+      ]
+    },
+    "COMP3400": {
+      "color": "purple",
+      "unsynced": [
+        "52aab6612932c7d4",
+        "8f54c76c3ab92db5"
+      ]
+    },
+    "CSSE2310": {
+      "color": "green",
+      "unsynced": [
+        "52aab6612932c7d4",
+        "8f54c76c3ab92db5"
+      ]
+    },
+    "CSSE6400": {
+      "color": "red",
+      "unsynced": [
+        "52aab6612932c7d4",
+        "8f54c76c3ab92db5"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}
