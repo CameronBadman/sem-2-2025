@@ -4,51 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "26fb6bc433bc6166",
+        "id": "92bb6019d7e77ad4",
         "type": "tabs",
         "children": [
           {
-            "id": "94c012c0393d48fe",
+            "id": "1f4def47f6b7eab0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cybr3000/week-1/Lecture1/lecture.md",
+                "file": "comp3702/week-2/App2/app.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture"
+              "title": "app"
             }
           }
         ]
       },
       {
-        "id": "25990e10cb2bea94",
+        "id": "efdb50f164da454b",
         "type": "tabs",
         "children": [
           {
-            "id": "24bb3dc7643191a5",
+            "id": "792cf69daab5a29e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "cybr3000/week-1/Lecture1/Topic_01_Cybersecurity overview.pdf"
+                "file": "comp3702/week-2/App2/COMP3702_Tutorial_1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Topic_01_Cybersecurity overview"
-            }
-          },
-          {
-            "id": "2ba092efb4baec07",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "cybr3000/week-1/Lecture1/Topic_02_Security management.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Topic_02_Security management"
+              "title": "COMP3702_Tutorial_1"
             }
           }
         ]
@@ -108,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a85a25cf4f929afe",
@@ -210,25 +198,28 @@
       "slide-note:Slide Note Block Generator": false
     }
   },
-  "active": "94c012c0393d48fe",
+  "active": "1f4def47f6b7eab0",
   "lastOpenFiles": [
-    "cybr3000/week-1/Lecture1/Topic_01_Cybersecurity overview.pdf",
+    "comp3702/week-2/App2/COMP3702_Tutorial_1.pdf",
+    "comp3702/week-2/App2/app.md",
+    "comp3702/week-2/App2/tic_tac_toe.py",
+    "comp3702/week-1/Lecture1/COMP3702_Module-0_IntroToAI.pdf",
+    "comp3506/week-2/App2/app.md",
+    "comp3506/week-2/App2/tut-w2(1).pdf",
     "cybr3000/week-1/Lecture1/lecture.md",
+    "cybr3000/week-1/App1/app.md",
+    "cybr3000/week-2/App2/app.md",
+    "cybr3000/week-2/App2/AP1_overview_new_questions.pdf",
+    "cybr3000/week-1/Lecture1/Topic_01_Cybersecurity overview.pdf",
     "cybr3000/week-1/Lecture1/Topic_02_Security management.pdf",
     "cybr3000/week-1/Lecture1/Topic_00_Course_Intro.pdf",
-    "cybr3000/week-1/App1/app.md",
+    "comp3506/week-1/App1/app.md",
+    "comp3506/Glossary/Glossary.md",
+    "comp3506/Glossary",
     "comp3506/week-1/Lecture1/lecture.md",
     "comp3702/week-1/Lecture1/Topic_00_Course_Intro.pdf",
-    "comp3702/week-1/Lecture1/Topic_01_Cybersecurity overview.pdf",
-    "comp3702/week-1/Lecture1/Topic_02_Security management.pdf",
-    "comp3506/week-1/Lecture1/week1-lecture(1).pdf",
-    "comp3506/week-2/App2/app.md",
-    "cosc3500/week-2/App2/AP1_overview_new_questions.pdf",
-    "comp3506/week-2/App2/tut-w2(1).pdf",
     "Untitled Kanban.md",
-    "comp3702/week-2/App2/tic_tac_toe_ChatGPT.py",
     "README.md",
-    "comp3506/week-1/App1/app.md",
     "cybr3000/week-13/Lecture13/lecture.md",
     "cybr3000/week-13/App13/app.md",
     "cybr3000/week-12/Lecture12/lecture.md",
@@ -244,9 +235,6 @@
     "cybr3000/week-7/Lecture7/lecture.md",
     "cybr3000/week-7/App7/app.md",
     "cybr3000/week-6/Lecture6/lecture.md",
-    "cybr3000/week-6/App6/app.md",
-    "cybr3000/week-5/Lecture5/lecture.md",
-    "cybr3000/week-5/App5/app.md",
     "Untitled.canvas",
     "CSSE2310/out.jpg",
     "Pasted image 20250315183615.png"
