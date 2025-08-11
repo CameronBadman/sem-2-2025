@@ -55,6 +55,7 @@ scale: 0.7
 ## Attacks and their classifications 
 ### Alter
 #### Passive 
+- obtain or modify information/system resources without affecting the system itself
 - obtain information/system resources without affecting the system itself
 - two types: release of message contents, traffic analysis
 #### Active
