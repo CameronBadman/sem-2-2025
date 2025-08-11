@@ -39,7 +39,6 @@ dpi: 2
 scale: 0.7
 ```
 
-
 ## Computer Security Terminology
 - **System Resource (Asset)**
 	- Data, Service, System capability, equipment or a facility that a bad actor is trying to take, usurp, or kill
@@ -57,6 +56,7 @@ scale: 0.7
 ### Alter
 #### Passive 
 - obtain or modify information/system resources without affecting the system itself
+- obtain information/system resources without affecting the system itself
 - two types: release of message contents, traffic analysis
 #### Active
 - altering of system resources 
