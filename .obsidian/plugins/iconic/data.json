@@ -1,9 +1,9 @@
 {
   "biggerIcons": "mobile",
   "clickableIcons": "desktop",
-  "showAllFileIcons": true,
-  "showAllFolderIcons": true,
-  "minimalFolderIcons": true,
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": false,
   "showItemName": "desktop",
   "biggerSearchResults": "mobile",
   "maxSearchResults": 50,
@@ -21,44 +21,7 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {
-    "COMP3100": {
-      "color": "pink",
-      "unsynced": [
-        "52aab6612932c7d4",
-        "8f54c76c3ab92db5",
-        "bcdbf3a45cb8e5aa",
-        "22d4311586740dc1"
-      ]
-    },
-    "COMP3400": {
-      "color": "purple",
-      "unsynced": [
-        "52aab6612932c7d4",
-        "8f54c76c3ab92db5",
-        "bcdbf3a45cb8e5aa",
-        "22d4311586740dc1"
-      ]
-    },
-    "CSSE2310": {
-      "color": "green",
-      "unsynced": [
-        "52aab6612932c7d4",
-        "8f54c76c3ab92db5",
-        "bcdbf3a45cb8e5aa",
-        "22d4311586740dc1"
-      ]
-    },
-    "CSSE6400": {
-      "color": "red",
-      "unsynced": [
-        "52aab6612932c7d4",
-        "8f54c76c3ab92db5",
-        "bcdbf3a45cb8e5aa",
-        "22d4311586740dc1"
-      ]
-    }
-  },
+  "fileIcons": {},
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},
